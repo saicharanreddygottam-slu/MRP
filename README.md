@@ -21,14 +21,20 @@ Dashboard GUI
 Running the Dashboard
 Once the application is running, access the dashboard via:
 Link to be updated.
+
+
 Features
 •	Job Demand Analysis: Identify trends in job postings by title, industry, and location.
 •	Salary Optimization: Compare salary ranges for various job roles and industries.
 •	Skill Gap Analysis: Analyze required skills for job postings (Python, SQL, AWS, etc.).
 •	Company Evaluation: Compare company ratings, headquarters, and competitors.
 •	Career Growth Assessment: Evaluate job seniority levels and degree requirements.
+
+
 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to modify.
+
+
 License
 MIT License. See license for details.
 

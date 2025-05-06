@@ -23,8 +23,7 @@ This includes all scripts used for data cleaning, transformation, and validation
 - **`data_cleaning_and_validation.py`** – Python script that:
   - Cleans missing/null values
   - Performs data type validation
-  - Aggregates monthly counts to yearly totals
-  - Saves final output as CSV
+
 
 
 ### 3. **Application**
@@ -34,6 +33,44 @@ The application allows users to interact with the final dataset via:
 
 
 ---
+
+Employment Analytics Dashboard - A data-driven approach to optimizing Job Searches in the U.S. Data Sector
+Project Description
+This project provides a comprehensive employment analytics dashboard to assist job seekers in analyzing job postings, salary trends, required skills, company evaluations, and career growth opportunities. The goal is to help job seekers make informed decisions using data-driven insights.
+
+Installation
+1.	Clone the repository
+
+git clone https://github.com/saicharanreddygottam-slu/employment-analytics-dashboard.git  
+cd employment-analytics-dashboard 
+
+2.	Create and activate a virtual environment
+python -m venv venv  
+source venv/bin/activate  
+Install dependencies
+pip install -r requirements.txt
+
+4.	Run the application
+python app.py  
+
+Running the Dashboard
+Once the application is running, access the dashboard via:
+
+Link: https://app.powerbi.com/view?r=eyJrIjoiNjhhMjg0NDItODJlYy00ZTk0LTkwNTYtZWM5MjY3YTAwZTllIiwidCI6IjJjNGE2MDYzLTQ0MTAtNDQwMi1hZjUzLTI2NThlZGExNTFkMiJ9
+
+Features
+•	Job Demand Analysis: Identify trends in job postings by title, industry, and location.
+•	Salary Optimization: Compare salary ranges for various job roles and industries.
+•	Skill Gap Analysis: Analyze required skills for job postings (Python, SQL, AWS, etc.).
+•	Company Evaluation: Compare company ratings, headquarters, and competitors.
+•	Career Growth Assessment: Evaluate job seniority levels and degree requirements.
+Contributing
+Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to modify.
+License
+MIT License. See license for details.
+
+Link: MIT License.txt
+
 
 ## 🚀 How to Run the Application
 
@@ -58,13 +95,4 @@ For questions or issues related to this project, contact:
 
 * Name: \[Sai Charan Reddy Gottam]
 * Email: \[saicharanreddy.gottam@slu.edu]
-```
-
-### Customization:
-
-- Replace **`[data_file_1.csv]`** and similar placeholders with your actual filenames and descriptions.
-- In **How to Run the Application**, specify whether you're using Power BI or a web app and provide clear instructions.
-- Feel free to add any additional sections such as assumptions, limitations, or further details relevant to your project.
-
-Let me know if you need further help with any part of it!
 ```

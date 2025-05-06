@@ -30,10 +30,10 @@ This includes all scripts used for data cleaning, transformation, and validation
 ### 3. 📊 Application
 The application allows users to interact with the final dataset via:
 
-- [`MRP DASHBOARD.pbix`](./application/MRP%20DASHBOARD.pbix) – Power BI dashboard file.
+- [`MRP DASHBOARD.pbix`](./MRP%20DASHBOARD.pbix) – Power BI dashboard file.
 
 - Dashboard published Link: https://app.powerbi.com/view?r=eyJrIjoiNjhhMjg0NDItODJlYy00ZTk0LTkwNTYtZWM5MjY3YTAwZTllIiwidCI6IjJjNGE2MDYzLTQ0MTAtNDQwMi1hZjUzLTI2NThlZGExNTFkMiJ9
-- **`[MRP DASHBOARD.pbix]`** [`MRP DASHBOARD.pbix`](./application/MRP%20DASHBOARD.pbix) – Power BI dashboard file.
+- **`[MRP DASHBOARD.pbix]`** [`MRP DASHBOARD.pbix`](./MRP%20DASHBOARD.pbix) – Power BI dashboard file.
 
 ---
 

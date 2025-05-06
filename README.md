@@ -28,8 +28,9 @@ This includes all scripts used for data cleaning, transformation, and validation
 
 ### 3. **Application**
 The application allows users to interact with the final dataset via:
-- A **Power BI Dashboard** (exported `.pbix` file)
+- A **Power BI Dashboard** (exported `.pbix` file) **`[MRP DASHBOARD.pbix]`** 
 - Dashboard published Link: https://app.powerbi.com/view?r=eyJrIjoiNjhhMjg0NDItODJlYy00ZTk0LTkwNTYtZWM5MjY3YTAwZTllIiwidCI6IjJjNGE2MDYzLTQ0MTAtNDQwMi1hZjUzLTI2NThlZGExNTFkMiJ9
+- **`[MRP DASHBOARD.pbix]`** 
 
 
 ---

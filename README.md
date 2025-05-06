@@ -13,8 +13,8 @@ The dashboard is designed to enable users to efficiently analyze and compare emp
 ### 1. **Data Files**
 These are the final, cleaned datasets derived from the original raw data through validation and transformation steps:
 
-- **`[job_data.xlsx]`** – [Description of this file: This file contains parameters like company name, industry, headquaters, job location, avg salary, job title, skills and may important parameters. It is used as the primary dataset for the employment dashboard on data roles. Example: "Contains salary data by industry and job role, positions by location, by sectors, by industry and many others."]
-- **`[postings.xlsx]`** – [Description of this file: This file contains parameters like job type, company name, industry, headquaters, job location, avg salary, job title, skills and may important parameters. It is used as the seconadary dataset for the employment dashboard on data roles. Example: "Contains salary data by industry and job role, positions by location, by sectors, by industry and many others."]
+- **`[job_data.xlsx]`(./job_data.xlsx)** – [Description of this file: This file contains parameters like company name, industry, headquaters, job location, avg salary, job title, skills and may important parameters. It is used as the primary dataset for the employment dashboard on data roles. Example: "Contains salary data by industry and job role, positions by location, by sectors, by industry and many others."]
+- **`[postings.xlsx]`(./postings.xlsx)** – [Description of this file: This file contains parameters like job type, company name, industry, headquaters, job location, avg salary, job title, skills and may important parameters. It is used as the seconadary dataset for the employment dashboard on data roles. Example: "Contains salary data by industry and job role, positions by location, by sectors, by industry and many others."]
 
 
 ### 2. **Code Files**

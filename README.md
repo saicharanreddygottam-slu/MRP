@@ -57,9 +57,7 @@ The application allows users to interact with the final dataset via:
 For questions or issues related to this project, contact:
 
 * Name: \[Sai Charan Reddy Gottam]
-* Email: \[]
-* LinkedIn/GitHub: \[Optional]
-
+* Email: \[saicharanreddy.gottam@slu.edu]
 ```
 
 ### Customization:

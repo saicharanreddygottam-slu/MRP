@@ -44,39 +44,11 @@ The application allows users to interact with the final dataset via:
 ### If Web App:
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/saicharanreddygottam-slu/MRP.git
 ````
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
-## ✅ Validation and Transformation Steps
-
-Key steps taken to ensure the data is clean and usable:
-
-* Removed rows with missing or corrupt values.
-* Validated data types (e.g., integers for count fields, dates formatted correctly).
-* Aggregated monthly data to generate annual summaries.
-* Filtered out non-relevant categories (e.g., data with null states).
-* Created new fields where necessary (e.g., `total_checks_per_year`).
-
----
-
 ## 📌 Notes
 
-* All final versions of the data, scripts, and app files are located in the `/final` folder.
-* \[Include any assumptions, limitations, or special configurations used.]
+* All final versions of the data, scripts, and app files are located in the repo.
 
 ---
 
@@ -84,8 +56,8 @@ Key steps taken to ensure the data is clean and usable:
 
 For questions or issues related to this project, contact:
 
-* Name: \[Your Full Name]
-* Email: \[Your Email Address]
+* Name: \[Sai Charan Reddy Gottam]
+* Email: \[]
 * LinkedIn/GitHub: \[Optional]
 
 ```

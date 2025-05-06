@@ -42,7 +42,7 @@ This project provides a comprehensive employment analytics dashboard to assist j
 Installation
 1.	Clone the repository
 
-git clone https://github.com/saicharanreddygottam-slu/employment-analytics-dashboard.git  
+git clone https://github.com/saicharanreddygottam-slu/MRP.git
 cd employment-analytics-dashboard 
 
 2.	Create and activate a virtual environment

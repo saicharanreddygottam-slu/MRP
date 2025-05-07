@@ -89,13 +89,4 @@ Link: MIT License.txt
 ## 📌 Notes
 
 * All final versions of the data, scripts, and app files are located in the repo.
-
----
-
-## 📞 Contact
-
-For questions or issues related to this project, contact:
-
-* Name: \[Sai Charan Reddy Gottam]
-* Email: \[saicharanreddy.gottam@slu.edu]
 ```
